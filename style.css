@@ -1,3 +1,10 @@
+body{
+  background-color: #CCCCCC;
+}
+#banner{
+  width:100%;
+  
+}
 p {
   text-align: center;
 }
@@ -6,4 +13,7 @@ p {
 }
 em strong{
   color:#d45f5f;
+}
+.item{
+  font-style:italic;
 }
