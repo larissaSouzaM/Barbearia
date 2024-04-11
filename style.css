@@ -1,5 +1,6 @@
-body{
+.principal{
   background-color: #CCCCCC;
+  padding:20px;
 }
 #banner{
   width:100%;
@@ -14,6 +15,18 @@ p {
 em strong{
   color:#d45f5f;
 }
+h2{
+  text-align: center;
+}
+ul{
+  display:inline-block;
+  vertical-align:top;
+  width: 20%;
+  margin-right:15%;
+}
 .item{
   font-style:italic;
+}
+.imagem-beneficios{
+  width:50%;
 }
