@@ -1,5 +1,9 @@
+.titulo-principal{
+padding-left:20px;
+  
+}
 .principal{
-  background-color: #CCCCCC;
+  background-color: #d697b5;
   padding:20px;
 }
 #banner{
@@ -13,7 +17,7 @@ p {
   font-size:20px;
 }
 em strong{
-  color:#d45f5f;
+  color:#3465a4;
 }
 h2{
   text-align: center;
@@ -29,4 +33,7 @@ ul{
 }
 .imagem-beneficios{
   width:50%;
+}
+.texto-centralizado{
+  text-align:center;
 }
