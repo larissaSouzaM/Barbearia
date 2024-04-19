@@ -1,13 +1,29 @@
-header{
-  background-color:#BBBBBB;
+header {
+  background-color: #b58b8b;
+  padding: 20px 0;
 }
-nav li{
+
+nav {
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+
+.caixa {
+  width: 940px;
+  position:relative;
+  margin: 0 auto;
+}
+
+
+nav li {
   display: inline;
   margin: 0 0 0 15px;
 }
-nav a{
+
+nav a {
   text-transform: uppercase;
-  color:#000000;
+  color: #000000;
   font-weight: bold;
   text-decoration: none;
   font-size: 22px;
